@@ -1,7 +1,3 @@
-#########################
-# Full reference
-# https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
-#########################
 
  cacheUrl: https://LIRENGUAN.github.io/urban-renewal/cache.json
 sources:
